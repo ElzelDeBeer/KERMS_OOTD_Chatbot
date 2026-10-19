@@ -1,9 +1,8 @@
-##Name: Elzel Qoqokwakhe De Beer  
 ##Project Name: KERMS #OOTD AI CHATBOT DOCUMENTATION 
 ==============================================
 ##INTRODUCTION  
 Project Name:  
-#OOTD AI Chatbot (KERMS)
+KERMS #OOTD AI Chatbot
 
 ##ACCESS OUR #OOTD CHATBOT HERE:  
 https://gemini.google.com/share/bfb8b44fc16a?skid=f0551d75-2f91-4471-bc0f-d478a1a0c7d7
