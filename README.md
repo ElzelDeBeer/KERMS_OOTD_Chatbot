@@ -5,6 +5,9 @@
 Project Name:  
 #OOTD AI Chatbot (KERMS)
 
+##ACCESS OUR #OOTD CHATBOT HERE:  
+https://gemini.google.com/share/bfb8b44fc16a?skid=f0551d75-2f91-4471-bc0f-d478a1a0c7d7
+
 ##Purpose and objective of the chatbot:  
 The #OOTD AI Chatbot is an outfit of the day chatbot that helps a user choose outfits 
 of the day on a daily basis or when they have an event and they do not know what to wear.
@@ -12,6 +15,12 @@ A user can add their clothing items - from shoes, clothes, jewelry/accessories a
 by inserting a direct link from the stores which the clothes were bought and/or by taking pictures
 of what they currently have in their closet. The chatbot has a Pinterest Collab whereby it styles clothes from there.
 As a user, you have the liberty to tell it the occasion and whether to consider certain outfits when it is giving out suggestions. It has a history to show the outfit combinations you have already worn according to the category, so if you search for occasion outfits twice, it will group it under the occasion folder. The occasion folder consists of categories such as corporate outfits, Parisian old money outfits, influencer events, day wear etc. will have their own group. On the top left side, there is a sidebar that consists of the following features: AI stylist, Historic Chats, Digital Wardrobe, Inspiration hub, Saved Outfits, Wear Logs, Profile, and Settings. I will outline what each feature/functionality does in the key functionalities section later in this document. 
+
+## PROJECT PREVIEW IMAGES
+<img width="1586" height="661" alt="KERMS1" src="https://github.com/user-attachments/assets/a6190d78-66e2-4277-9baa-3d658b8403eb" />
+<img width="1600" height="660" alt="KERMS2" src="https://github.com/user-attachments/assets/8a9eb1f3-9adb-468f-99d4-4fc868bf05e8" />
+<img width="1587" height="670" alt="KERMS3" src="https://github.com/user-attachments/assets/6ab20b96-f334-411e-b66a-1b8965e8f39f" />
+<img width="1590" height="680" alt="KERMS4" src="https://github.com/user-attachments/assets/88abee9b-1727-4440-aedc-a34b74760b19" />
 
 ##PROJECT OVERVIEW: 
 Target audience:  
@@ -66,8 +75,6 @@ Our chatbot had no chat input for the user.
 Solution:  
 Used prompt engineering's best practice to refine and redesign the whole concept.  
 
-##ACCESS OUR #OOTD CHATBOT HERE:  
-https://gemini.google.com/share/bfb8b44fc16a?skid=f0551d75-2f91-4471-bc0f-d478a1a0c7d7
 
 
  
